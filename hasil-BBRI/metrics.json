@@ -1,0 +1,14 @@
+{
+  "ticker": "BBRI.JK",
+  "jumlah_baris_data": 2711,
+  "data_latih": 2168,
+  "data_uji": 542,
+  "epoch_berhenti": 6,
+  "best_val_loss": 0.44161027669906616,
+  "MAE": 69.17271423339844,
+  "RMSE": 92.02112104701833,
+  "MAPE": 1.5432045459747314,
+  "MAE_baseline": 67.629150390625,
+  "RMSE_baseline": 90.33991798341418,
+  "MAPE_baseline": 1.5073730945587158
+}

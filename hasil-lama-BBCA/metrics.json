@@ -1,0 +1,14 @@
+{
+  "ticker": "BBCA.JK",
+  "jumlah_baris_data": 2711,
+  "data_latih": 2168,
+  "data_uji": 543,
+  "epoch_berhenti": 13,
+  "best_val_loss": 0.0003309246676508337,
+  "MAE": 221.2060546875,
+  "RMSE": 273.8401107398257,
+  "MAPE": 2.335496425628662,
+  "MAE_baseline": 106.62984466552734,
+  "RMSE_baseline": 142.9915999499621,
+  "MAPE_baseline": 1.166003704071045
+}
