@@ -1,8 +1,3 @@
-"""
-Pelatihan model SimpleRNN untuk prediksi harga penutupan saham (berbasis return harian).
-Jalankan: python train_model.py
-Output  : model_rnn.keras, scaler.pkl, metrics.json, folder outputs/ (grafik)
-"""
 import json
 import os
 import random
