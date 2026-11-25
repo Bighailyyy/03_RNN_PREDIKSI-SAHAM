@@ -1,8 +1,3 @@
-"""
-Antarmuka Streamlit untuk prediksi harga saham BBCA.JK dan BBRI.JK dengan SimpleRNN.
-Jalankan: streamlit run app.py
-(Pastikan folder hasil-BBCA dan hasil-BBRI berisi model_rnn.keras, scaler.pkl, metrics.json.)
-"""
 import json
 import os
 
