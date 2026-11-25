@@ -3,7 +3,11 @@
 Tugas UAS INF311 Machine Learning, **Kelompok 3: Recurrent Neural Network (RNN)**
 Program Studi S1 Informatika, FMIPA, Universitas Syiah Kuala.
 
-Anggota: _(isi nama dan NIM anggota kelompok)_
+Anggota:
+1. Putroe Fatimah Azzahra - 2408107010002
+2. Fawwaz Ziyadi Ilmi - 2408107010021
+3. Annisa Rahma Fathia - 2408107010027
+4. Fayla Syifa Rustam - 2408107010029
 
 ## Deskripsi Singkat
 
